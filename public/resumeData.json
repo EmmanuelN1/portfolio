@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name": "Nzeakor Emmanuel",
+    "occupation": "Software Developer",
+    "description": "",
+    "image": "images/Emmanuel.JPG",
+    "bio": "Hi there! I am Emmanuel. I am an Experienced Full Stack Developer with 3+ years in the industry and high-level proficiency in the following programs: JavaScript, Java  Word press etc. I am very familiar and experienced with Web Application Architecture and have worked with a good number of successful development teams.",
+    "contactmessage": "",
+    "email": "Emmanuelnzeakor00@yahoo.com",
+    "phone": "+2348118353243",
+    "address": {
+      "street": "Alagbado",
+      "city": "ikeja",
+      "state": "Lagos state",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "images/E-Resume.pdf",
+    "social": [
+     
+      {
+        "name": "facebook",
+        "url": "https://m.facebook.com/nzeko.emma.9",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "http://linkedin.com/in/nzeakor-emmanuel-847058160",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/EmmanuelN1",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Federal University Otuoke, Bayelsa  state",
+        "degree": "Bachelor's Degree, Computer Science and informatics",
+        "graduated": "",
+        "description": ""
+      },
+      {
+        "school": "The Polytechnic, Ibadan",
+        "degree": "Diploma Degree, Computer Science",
+        "graduated": "2015 - 2017",
+        "description": "Graduated with Second class, First division"
+      }
+    ],
+    "work": [
+      {
+        "company": "Devttech | UK - Kent",
+        "title": "Web Developer",
+        "years": "August 2020 - Present",
+        "description": "Designed, architected and built the company’s website using Vue js and firebase. Modernized some application built on older framework to React.JS. Built and designed full stack applications in which the frontend is hosted on firebase and backend is hosted on heroku which was being built with MongoDb. Designed, architected and wrote the front-end for a client ecommerce application using ReactJS with more than 10 reusable components with payment integration using stripe"
+      },
+      {
+        "company": "Geria | UK –Nottingham",
+        "title": "Web Developer (Contract)",
+        "years": "December 2020",
+        "description": "Designing and building websites. Creating the websites architecture. Designing and managing the websites back-end  using crm plugin. Troubleshooting content issues. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "88%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "React Native",
+        "level": "80%"
+      },
+      {
+        "name" : "Java",
+        "level" : "50%"
+      },
+       {
+        "name": "Next",
+        "level": "75%"
+      },
+      {
+        "name": "Redux",
+        "level": "70%"
+      },
+      {
+        "name": "FireStore",
+        "level": "80%"
+      }
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+     
+      {
+        "title": "Geria",
+        "category": "Web Development | Wordpress",
+        "image": "Geria.PNG",
+        "url": "http://geria.io/"
+      }, {
+        "title": "Devttech",
+        "category": "Web Development | Vue Js",
+        "image": "images/Devttech.PNG",
+        "url": "https://devttech.com/"
+      },
+      {
+        "title": "Property Wealth Estate",
+        "category": "Web Development | Wordpress",
+        "image": "images/Pwe.PNG",
+        "url": "http://propertywealthestates.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I was looking for a Web professional who would create and evolve my website. Emmanuel delivers exactly what I wanted. Always available to help, incredibly proficient, hits deadlines without fail, hard working and trustworthy",
+        "user": "Ndidi B"
+      },
+      {
+        "text": "Emmanuel really does stand out among the web developers that are around today. We’ve wasted a huge amount of time, effort and money on developers who couldn’t see the project through or lacked our own personal vision or the ability to get things done.",
+        "user" : "Peter D"
+      },
+      {
+       "text": "Working with Emmanuel opened our eyes to what was possible, both in terms of programming ability and also an incredible level of customer service. When made promises to meet deadlines, each one was met without breaking a sweat. When Emmanuel told us to not worry and to leave it to him we were initially a little worried. We shouldn’t have been, he hasn’t let us down at all in over one year we have been working together.",
+       "user" : "Kelvin Anthony "
+      }
+    ]
+  }
+}
