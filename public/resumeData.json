@@ -142,12 +142,12 @@
       {
         "title": "A Movie Listing App ( With Trailer Functionality)",
         "category": "Web Development | React | Firebase",
-        "image": "images/bmovie.png",
+        "image": "bmovie.PNG",
         "url": "https://b-movie-emmanueln1.vercel.app/"
       }, {
         "title": "Ecommerce Web Application",
         "category": "Web Development | React | Next",
-        "image": "images/bstore.png",
+        "image": "bstore.PNG",
         "url": "https://b-store.vercel.app/"
       },
       {
