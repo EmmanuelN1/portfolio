@@ -4,18 +4,18 @@
     "occupation": "Software Developer",
     "description": "",
     "image": "images/Emmanuel.JPG",
-    "bio": "Hi there! I am Emmanuel. I am an Experienced Full Stack Developer with 3+ years in the industry and high-level proficiency in the following programs: JavaScript, Java  Word press etc. I am very familiar and experienced with Web Application Architecture and have worked with a good number of successful development teams.",
+    "bio": "Experienced Software Developer adept in bringing forth expertise in design, implementation,testing and maintenance of systems. Equipped with a diverse and promising skill-set. Proficient in various platforms, languages and embedded systems.Experienced with latest cutting edge development tools and procedures. Able to effectively self-manage during independently projects as well as collaborate as part of a productive team..",
     "contactmessage": "",
-    "email": "Emmanuelnzeakor00@yahoo.com",
+    "email": "langrangee@icloud.com",
     "phone": "+2348118353243",
     "address": {
       "street": "Alagbado",
       "city": "ikeja",
       "state": "Lagos state",
-      "zip": ""
+      "zip": "100275"
     },
     "website": "",
-    "resumedownload": "images/E-Resume.pdf",
+    "resumedownload": "/E-nzeakor.pdf",
     "social": [
      
       {
@@ -41,13 +41,13 @@
     ]
   },
   "resume": {
-    "skillmessage": "",
+    "skillmessage": " Experience with various frameworks and technologies like",
     "education": [
       {
         "school": "Federal University Otuoke, Bayelsa  state",
         "degree": "Bachelor's Degree, Computer Science and informatics",
-        "graduated": "",
-        "description": ""
+        "graduated": "2018 - 2022",
+        "description": "In View"
       },
       {
         "school": "The Polytechnic, Ibadan",
@@ -58,16 +58,28 @@
     ],
     "work": [
       {
+        "company": "Langrangee | NG - Lagos",
+        "title": "Software Developer",
+        "years": "April 2019 - Present",
+        "description": "Analyzed requirements to translate functional requirements into technical requirements and developed web application using MERN stack (Mongo DB, Express, React, Node). Langrangee Group is a firm that provide IT service which include: Web development, App development, Brand and Visual Identity for several organizations."
+      },
+      {
         "company": "Devttech | UK - Kent",
         "title": "Web Developer",
-        "years": "August 2020 - Present",
-        "description": "Designed, architected and built the company’s website using Vue js and firebase. Modernized some application built on older framework to React.JS. Built and designed full stack applications in which the frontend is hosted on firebase and backend is hosted on heroku which was being built with MongoDb. Designed, architected and wrote the front-end for a client ecommerce application using ReactJS with more than 10 reusable components with payment integration using stripe"
+        "years": "August 2020 - Jan 2022",
+        "description": "Analyzed requirements to translate functional requirements into technical requirements and developed various applications and websites for clients using MEVN (Mongo DB, Express, Vue, Node), MERN (Mongo DB, Express, React, Node) stack and LAMP stack (WordPress)."
+      },
+      {
+        "company": "Federal University Otuoke | NG - Bayelsa",
+        "title": "ICT Intern",
+        "years": "Nov 2021 - Jan 2022",
+        "description": "Learned to configure, manage file server and printer server on the network. Support the IT team in maintaining hardware, software and other systems. Assist with troubleshooting issues and provide technical support.Organize and maintain IT resources."
       },
       {
         "company": "Geria | UK –Nottingham",
-        "title": "Web Developer (Contract)",
-        "years": "December 2020",
-        "description": "Designing and building websites. Creating the websites architecture. Designing and managing the websites back-end  using crm plugin. Troubleshooting content issues. "
+        "title": "Web Developer",
+        "years": "December 2020 - Jan 2021",
+        "description": "Contributing to content creating and UX research. Maintaining codebase and application dashboard. Using PHP JavaScript, and MySQL to improve the functionality of the platform.Designed and developed eye-catching client-focused landing pages using LAMP stack (WordPress). Communicated effectively with copywriters, brand manager, to improve user experience."
       }
     ],
     "skills": [
@@ -77,7 +89,7 @@
       },
       {
         "name": "Python",
-        "level": "70%"
+        "level": "50%"
       },
       {
         "name": "Git",
@@ -92,8 +104,8 @@
         "level": "80%"
       },
       {
-        "name" : "Java",
-        "level" : "50%"
+        "name": "TailwindCss",
+        "level": "90%"
       },
        {
         "name": "Next",
@@ -106,6 +118,20 @@
       {
         "name": "FireStore",
         "level": "80%"
+      },
+      {
+        "name": "MongoDb",
+        "level": "70%"
+      },
+
+      {
+        "name": "Express",
+        "level": "60%"
+      },
+
+      {
+        "name": "Node",
+        "level": "70%"
       }
 
     ]
@@ -114,21 +140,21 @@
     "projects": [
      
       {
+        "title": "A Movie Listing App ( With Trailer Functionality)",
+        "category": "Web Development | React | Firebase",
+        "image": "images/bmovie.png",
+        "url": "https://b-movie-emmanueln1.vercel.app/"
+      }, {
+        "title": "Ecommerce Web Application",
+        "category": "Web Development | React | Next",
+        "image": "images/bstore.png",
+        "url": "https://b-store.vercel.app/"
+      },
+      {
         "title": "Geria",
         "category": "Web Development | Wordpress",
         "image": "Geria.PNG",
         "url": "http://geria.io/"
-      }, {
-        "title": "Devttech",
-        "category": "Web Development | Vue Js",
-        "image": "images/Devttech.PNG",
-        "url": "https://devttech.com/"
-      },
-      {
-        "title": "Property Wealth Estate",
-        "category": "Web Development | Wordpress",
-        "image": "images/Pwe.PNG",
-        "url": "http://propertywealthestates.com/"
       }
     ]
   },
@@ -144,7 +170,7 @@
       },
       {
        "text": "Working with Emmanuel opened our eyes to what was possible, both in terms of programming ability and also an incredible level of customer service. When made promises to meet deadlines, each one was met without breaking a sweat. When Emmanuel told us to not worry and to leave it to him we were initially a little worried. We shouldn’t have been, he hasn’t let us down at all in over one year we have been working together.",
-       "user" : "Kelvin Anthony "
+       "user" : "Kelvin A "
       }
     ]
   }
