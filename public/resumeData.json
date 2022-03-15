@@ -61,7 +61,7 @@
         "company": "Langrangee | NG - Lagos",
         "title": "Software Developer",
         "years": "April 2019 - Present",
-        "description": "Analyzed requirements to translate functional requirements into technical requirements and developed web application using MERN stack (Mongo DB, Express, React, Node). Langrangee Group is a firm that provide IT service which include: Web development, App development, Brand and Visual Identity for several organizations."
+        "description": "Converted UI designs into web and mobile app using React and React Native. Built reusable Next components and functions to be added to future pages.Applied JWT middleware to backend for authentication and used Passport for security purposes.Collaborated closely with UI/UX designers, PMs, QAs and backend developers"
       },
       {
         "company": "Devttech | UK - Kent",
@@ -142,12 +142,12 @@
       {
         "title": "A Movie Listing App ( With Trailer Functionality)",
         "category": "Web Development | React | Firebase",
-        "image": "bmovie.PNG",
+        "image": "/images/bmovie.PNG",
         "url": "https://b-movie-emmanueln1.vercel.app/"
       }, {
         "title": "Ecommerce Web Application",
         "category": "Web Development | React | Next",
-        "image": "bstore.PNG",
+        "image": "/images/bstore.PNG",
         "url": "https://b-store.vercel.app/"
       },
       {
